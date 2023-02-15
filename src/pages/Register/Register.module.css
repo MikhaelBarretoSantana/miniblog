@@ -1,0 +1,14 @@
+
+.register {
+    text-align: center;
+}
+
+.register p {
+    color: #aaa
+}
+
+.active input{
+    transition: 1s linear;
+    background-color: #444;
+    color: #000;
+}
